@@ -6,6 +6,7 @@ layout: default
 
 This is just a place for me to play around with Github Pages. I may do something with it at some point but I have no plans for it.
 
+&nbsp;
 
 ### Since you wasted time coming here..
 
@@ -24,19 +25,22 @@ password =  "".join(choice(characters) for x in range(length))
 print(f"\n{password}")
 ```
 
+&nbsp;
+
 * Contact
   * [Mastodon](https://fosstodon.org/@mthehorrible)
   * Matrix: @mthehorrible:kde.org
   * XMPP: mthehorrible@jix.im
-
 * Other Sites
   * [mthehorrible.cc](https://mthehorrible.cc)
   * [xrandomness.com](https://xrandomness.com)
   * [xhskateboards.com](https://xhskateboards.com)
 
+&nbsp;
+
 ### Still Here?
 
 Since you stuck around you can enjoy this picture of my cat. She is not happy you disturbed her while she was sitting in a box though...
 
-![Sheena(./assets/sheena.jpg)
+![Sheena](./assets/sheena.jpg)
 
