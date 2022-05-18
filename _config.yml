@@ -1,1 +1,5 @@
 theme: jekyll-theme-hacker
+title: mthehorrible
+
+# Build settings
+markdown: kramdown
