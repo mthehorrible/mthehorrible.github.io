@@ -40,7 +40,9 @@ print(f"\n{password}")
 
 ### Still Here?
 
-Since you stuck around you can enjoy this picture of my cat. She is not happy you disturbed her while she was sitting in a box though...
+Since you stuck around you can enjoy this picture of my cat.
+
+She is not happy you disturbed her while she was sitting in a box though...
 
 ![Sheena](./assets/sheena.jpg)
 
