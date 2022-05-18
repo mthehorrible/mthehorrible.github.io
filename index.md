@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Why does this exist
 
 This is just a place for me to play around with Github Pages. I may do something with it at some point but I have no plans for it.
