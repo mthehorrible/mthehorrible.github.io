@@ -29,7 +29,6 @@ print(f"\n{password}")
 
 * Contact
   * [Mastodon](https://fosstodon.org/@mthehorrible)
-  * [pixelfed](https://pixelfed.social/i/web/profile/500285952783711306)
   * Matrix: @mthehorrible:kde.org
   * XMPP: mthehorrible@jix.im
 * Other Sites
